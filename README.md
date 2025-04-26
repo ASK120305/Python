@@ -10,12 +10,7 @@ A curated collection of standalone Python scripts and small projects demonstrati
 - [Getting Started](#getting-started)  
   - [Prerequisites](#prerequisites)  
   - [Installation](#installation)  
-- [Usage](#usage)  
-- [Directory Structure](#directory-structure)  
-- [Examples](#examples)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
+)  
 
 ---
 
