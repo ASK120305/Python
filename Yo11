@@ -1,0 +1,12 @@
+def prime(lower, upper):
+    num=lower
+    c=0
+    for i in range(1,num+1):
+        if num%i==0:
+            c=c+1
+        else:
+            c=2
+            print(num, "This a prime number")
+lower=int(input("Enter the lower number: "))
+upper=int(input("Enter the upper number: "))
+prime(lower,upper)
